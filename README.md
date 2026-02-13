@@ -39,7 +39,7 @@ Strike prices
 Expiry dates
 Open interest and related option chain variables
 
-(Data sourced from NSE options chain https://www.nseindia.com/
+(Data sourced from NSE options chain https://www.nseindia.com/)
 
 Key Concepts Applied
 1. Moneyness Classification
