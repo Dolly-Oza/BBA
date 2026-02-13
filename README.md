@@ -1,59 +1,97 @@
-**Options Pricing Analysis – United Breweries Ltd.
-Project Overview**
+**📊 Options Pricing & Strategy Analysis – United Breweries Ltd.
+📌 Project Overview**
 
-This project analyzes NSE options chain data for United Breweries Ltd. to understand how option premiums behave with respect to:
+This academic project analyzes NSE options chain data for United Breweries Ltd. The study focused on understanding how option premiums vary across different strike prices and expiries, and how various option trading strategies can be constructed using available contracts.
 
-Spot price movements
-Strike price selection
-Time to expiry
-Moneyness classification (ITM / ATM / OTM)
+The objective was to build foundational knowledge of options pricing behavior and practical strategy formulation.
 
-The objective was to study the pricing dynamics of equity derivatives using real market data.
+**🎯 Objectives**
 
-**Objectives**
+Examine relationships between:
 
-Analyze relationships between spot price, strike price, expiry, and option premiums
+Spot price; Strike price; Expiry date; Option premiums; Classify options as ITM, ATM, and OTM
 
-Classify options based on moneyness (ITM / ATM / OTM)
+Understand premium differences across strikes
 
-Study how premiums change with:
+Construct and analyze basic option trading strategies
 
-Underlying price movement
-Time to expiry
-Interpret option sensitivity patterns from observed data
-
-**Tools & Skills Used**
+**🛠 Tools Used**
 
 Microsoft Excel
+
 NSE Options Chain Data
-Financial Derivatives Concepts
-Data Analysis & Interpretation
 
-**Dataset**
+Fundamental Derivatives Concepts
 
-The dataset consists of:
+**📂 Dataset**
+
+The dataset consists of NSE options chain data including:
 
 Spot price of United Breweries Ltd.
-Call and Put option premiums
+
+Call and Put premiums
+
 Strike prices
+
 Expiry dates
-Open interest and related option chain variables
 
-(Data sourced from NSE options chain https://www.nseindia.com/)
+Open Interest
 
-Key Concepts Applied
-1. Moneyness Classification
+**📈 Analysis Performed
+1️⃣ Moneyness Classification**
+
+Options were categorized as:
 
 ITM (In-the-Money)
+
 ATM (At-the-Money)
+
 OTM (Out-of-the-Money)
 
-2. Price Sensitivity Analysis
+Premium variations were observed across these categories.
 
-Impact of time decay near expiry
-Premium changes due to underlying price fluctuations
-Comparative behavior of Calls vs Puts
+**2️⃣ Strike-wise Premium Comparison**
 
-**Academic Context**
+Compared call and put premiums across different strike levels.
 
-This project was completed as part of my BBA coursework Semester 6 (Financial Markets and Institutions).
+Observed how distance from spot price affected premium levels.
+
+**3️⃣ Option Strategy Analysis**
+
+Basic payoff structures were examined for:
+
+Covered Call
+
+Protective Put
+
+Bull Call Spread
+
+Bull Put Spread
+
+Bear Call Spread
+
+Bear Put Spread
+
+Long Straddle
+
+Short Straddle
+
+Long Strangle
+
+Short Strangle
+
+Payoff outcomes were studied under different price scenarios at expiry.
+
+**📌 Key Learnings**
+
+ITM options carry higher intrinsic value compared to OTM options.
+
+Premium levels vary significantly with strike distance from spot.
+
+Combining options enables construction of hedging and directional strategies.
+
+Option chain data provides insight into market expectations.
+
+**🎓 Academic Context**
+
+This project was completed as part of my BBA coursework Semester 6 for Financial Markets & Institutions. It demonstrates practical exposure to options chain interpretation and introductory derivatives strategy analysis.
