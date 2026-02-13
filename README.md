@@ -1,4 +1,5 @@
 **📊 Options Pricing & Strategy Analysis – United Breweries Ltd.
+
 📌 Project Overview**
 
 This academic project analyzes NSE options chain data for United Breweries Ltd. The study focused on understanding how option premiums vary across different strike prices and expiries, and how various option trading strategies can be constructed using available contracts.
