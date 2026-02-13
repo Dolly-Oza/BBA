@@ -1,4 +1,4 @@
-**Options Pricing & Strategy Analysis – United Breweries Ltd.**
+#Options Pricing & Strategy Analysis – United Breweries Ltd.
 
 **Project Overview**
 
